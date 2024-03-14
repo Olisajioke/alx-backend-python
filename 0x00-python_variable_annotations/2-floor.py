@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Task 2 module that takes a float n as argument and returns the floor of the float."""
+""" Task 2 module that returns the floor of the float."""
 import math
 
 
