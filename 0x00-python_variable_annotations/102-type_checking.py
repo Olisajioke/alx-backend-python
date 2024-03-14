@@ -8,7 +8,7 @@ def zoom_array(
 ) -> List[int]:
     """function that takes a sequence lst and returns its first element."""
     zoomed_in: List[int] = [
-        item 
+        item
         for item in lst
         for _ in range(factor)
     ]
