@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Module that takes a string and a number as arguments and returns a tuple."""
+"""Module that takes a string and a number as arguments and returns a tuple"""
 from typing import Tuple, Union
 
 
