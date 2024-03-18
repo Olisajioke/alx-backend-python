@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-Module to measure the runtime of wait_n coroutine.
-"""
+"""Module to measure the runtime of wait_n coroutine."""
 import time
 import asyncio
 
