@@ -5,7 +5,7 @@ import random
 
 
 async def wait_random(max_delay: int = 10) -> float:
-    '''function that takes in an integer argument (max_delay, with a default value of 10)'''
+    '''function that takes in an integer argument'''
     wait_time = random.random() * max_delay
     await asyncio.sleep(wait_time)
     return wait_time
